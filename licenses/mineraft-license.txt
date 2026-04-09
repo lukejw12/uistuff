@@ -1,0 +1,42 @@
+Mineraft — a 2-Bit Creations project
+
+Project License
+
+This license covers the entire project, including data packs, resource packs, textures, models, sounds, functions, and all other assets or code included.
+
+Credits:
+Organization: 2-Bit Creations
+Project lead, design, and code: _ItsJustLuke
+Textures and art assets: Yegor_Mechanic, used with permission. All rights to the art assets remain with their creator.
+
+You are NOT permitted to:
+- Redistribute Mineraft for commercial gain, or in any way that profits from it (paid downloads, paywalls, ad-gated links, paid modpacks, paid server content, etc.) without written permission from _ItsJustLuke.
+- Publicly host Mineraft on other download sites, repositories, or launchers as your own upload without written permission. Always link back to the official Modrinth or GitHub page instead.
+- Extract or reuse the textures or art assets separately from Mineraft without written permission from Yegor_Mechanic.
+- Include Mineraft in datasets used to train machine learning or AI models.
+- Remove or alter this license or its credits.
+
+You ARE permitted to:
+- Use Mineraft in your own single-player or multiplayer worlds.
+- Modify Mineraft for personal use, as long as the modifications aren't shared and this license stays intact.
+- Include Mineraft in free modpacks, as long as credit is given to _ItsJustLuke and Yegor_Mechanic, this license is included, and there's a link back to the Modrinth or GitHub page. A heads-up via Discord or email is appreciated but not required.
+- Feature Mineraft in any social media content, including fully monetized videos and streams (YouTube, Twitch, TikTok, etc.). Monetization is expressly allowed and encouraged — creators will not be asked to demonetize. Credit and a link to the Modrinth or GitHub page are appreciated, especially if Mineraft plays a key role.
+
+Add-ons and Extensions:
+Add-ons that extend, patch, or add compatibility to Mineraft are welcome and encouraged. If you make one:
+- Credit _ItsJustLuke and Yegor_Mechanic somewhere visible (description, README, etc.).
+- Your add-on is your own work, you choose its license and keep full rights to it.
+- Add-ons can be shared freely, including on Modrinth, GitHub, CurseForge, etc.
+- Add-ons must remain free (non-commercial), matching the spirit of Mineraft.
+- If your add-on uses or modifies Yegor_Mechanic's textures or art, you'll need their permission separately.
+
+Contributions:
+By contributing to Mineraft (pull requests, patches, assets, etc.), you grant _ItsJustLuke a perpetual, royalty-free license to use and distribute your contribution as part of Mineraft under this license. You retain copyright to your original work and will be credited where applicable.
+
+Contact:
+Discord: _itsjustluke
+Email: lukejw1205@gmail.com (please label your subject clearly)
+
+Disclaimer: Mineraft is provided "as is," without warranty of any kind. _ItsJustLuke, 2-Bit Creations, and contributors are not responsible for any issues that may arise from its use.
+
+© 2026 2-Bit Creations and _ItsJustLuke — All Rights Reserved.
